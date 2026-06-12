@@ -99,9 +99,9 @@ export default function Hero() {
             <div className="relative">
               {/* Floating leaves around profile */}
               <div className="absolute -top-6 -left-6 text-3xl animate-leaf z-20" style={{ animationDelay: '0.5s' }}>🌿</div>
-              <div className="absolute -top-4 -right-4 text-2xl animate-leaf z-20" style={{ animationDelay: '1.5s' }}>🌸</div>
+              <div className="absolute -top-4 -right-4 text-2xl animate-leaf z-20" style={{ animationDelay: '1.5s' }}>🍀</div>
               <div className="absolute -bottom-4 -left-4 text-3xl animate-leaf z-20" style={{ animationDelay: '2.5s' }}>🍃</div>
-              <div className="absolute -bottom-6 -right-6 text-2xl animate-leaf z-20" style={{ animationDelay: '0.8s' }}>🌺</div>
+              <div className="absolute -bottom-6 -right-6 text-2xl animate-leaf z-20" style={{ animationDelay: '0.8s' }}>🍂</div>
               
               <div className="absolute -inset-6 bg-[#5B8C3E]/5 rounded-full blur-2xl"></div>
               <div className="relative bg-white/80 backdrop-blur-sm shadow-2xl rounded-3xl overflow-hidden border-2 border-[#5B8C3E]/10">
